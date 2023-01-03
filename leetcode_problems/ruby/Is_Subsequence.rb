@@ -1,3 +1,8 @@
+# link of the problem on leetcode
+
+# https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1
+
+
 # @param {String} s
 # @param {String} t
 # @return {Boolean}
