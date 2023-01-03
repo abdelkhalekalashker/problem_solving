@@ -26,7 +26,7 @@ def is_isomorphic(s, t)
     
     
     
-            # old code 
+        #brute force solution
         #----------------------------------------------------- 
     #     hash1={}
     
