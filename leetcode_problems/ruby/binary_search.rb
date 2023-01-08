@@ -10,7 +10,7 @@ def search(nums, target)
     right =(nums.length) -1
 
     while(left <= right)
-        mid = (left+right)/2
+        mid = left + (right - left)/2
         return mid if nums[mid] == target
 
         if(target > nums[mid])
